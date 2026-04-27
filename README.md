@@ -99,19 +99,6 @@ I’m a passionate developer focused on building **real-world impactful solution
 - Team Building 
 
 ---
-
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu6611&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Himanshu6611&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu6611&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Achievements & Highlights
 - 🧠 Built multiple AI-based real-world systems  
 - 💡 Active in hackathons & innovation projects  
